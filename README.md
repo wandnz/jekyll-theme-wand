@@ -51,11 +51,14 @@ defaults:
 
 Two values for `contentType` exist for UOW-WAND so far, `content` and `pdfFile`. These alter the layout used to include embedded PDFs while preserving the header and navigation bar.
 
+The front matter variables `title` and `subTitle` control the pages title and header respectivly.
+
 See [here](https://jekyllrb.com/docs/step-by-step/01-setup/) for more information on using jekyll.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/hello. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Any formatting that should be updated or reused across any WAND site should be updated in this theme repo.
+If a particular site requires a differnt format that only that site will use, create that format in the sites source.
 
 ## License
 
