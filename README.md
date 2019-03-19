@@ -8,7 +8,7 @@ Theme used by WAND of University of Waikato.
 To use this theme with github pages add line to your Jekyll site's `_config.yml`: 
 
 ```yaml
-remote_theme: tyler-marr/uow-wand
+remote_theme: wanduow/uow-wand
 ```
 
 To use this theme in a local site for testing, execute:
