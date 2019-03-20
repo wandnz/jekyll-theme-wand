@@ -1,11 +1,12 @@
-# UOW-WAND
+# jekyll-theme-wand
 
-Theme used by WAND of University of Waikato. 
+Jekyll theme used by WAND of University of Waikato. 
+Currently in use for [https://wramp.wand.nz/](https://wramp.wand.nz/)
 
 
 ## Installation
 
-To use this theme with github pages add line to your Jekyll site's `_config.yml`: 
+To use this theme with github pages add this line to your Jekyll site's `_config.yml`: 
 
 ```yaml
 remote_theme: wanduow/jekyll-theme-wand
